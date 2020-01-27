@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoordinatorBottomSheetBehavior</string>
+    <string name="bottom_sheet_content">BottomSheet Content </string>
+    <string name="bottom_sheet_peek">BottomSheet Peek</string>
+</resources>
